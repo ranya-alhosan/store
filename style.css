@@ -1,0 +1,28 @@
+img{
+    width: 250px;
+    height: 250px;
+}
+table, th, td {
+border:2px solid rgb(128, 128, 128);
+padding: 5px;
+}
+th{
+  text-align: center;
+}
+th td{
+  font-family:  cursive;
+}
+td{
+  color: gray;
+}
+body{
+background-color: rgb(216, 211, 200);
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.content{
+background-color: white;
+border: 5px solid rgb(158, 148, 131) ;
+margin: 100px;
+padding: 50px;
+}
